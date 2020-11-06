@@ -8,8 +8,8 @@
     "text": "Madeleine Janickyj"
   },
   "text": {
-    "more": "The weighted edges show the number of times an author wrote a paper that was assigned to that topic. The thicker, and darker, the edge the higher the number of papers.",
-    "intro": "The weighted edges show the number of times an author wrote a paper that was assigned to that topic. The thicker, and darker, the edge the higher the number of papers.",
+    "more": "Weighted network showing the number of times an author wrote a paper that was assigned to that topic. The thicker, and darker, the edge the higher the number of papers.",
+    "intro": "Weighted network showing the number of times an author wrote a paper that was assigned to that topic. The thicker, and darker, the edge the higher the number of papers.",
     "title": "Weighted TATA Author \u0026 Topic network"
   },
   "legend": {
@@ -40,8 +40,8 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 0.5,
-      "minEdgeSize": 0.2,
+      "maxEdgeSize": 18,
+      "minEdgeSize": 1.5,
       "minNodeSize": 1,
       "maxNodeSize": 7
     },
