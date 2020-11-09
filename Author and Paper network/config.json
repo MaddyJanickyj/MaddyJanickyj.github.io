@@ -10,7 +10,7 @@
   "text": {
     "more": "Network showing connections between authors and papers. Papers are connected if they are written on similar topic. Each paper is connected to all the other papers assigned the same topic and the different topics are represented by the different colours of edges. Papers are also connected to their authors, these nodes are coloured dark grey and black respectively. The part of the network that shows the authors also contains black edges. These edges represent collaborations between the authors.",
     "intro": "Network showing papers connected if they are written on similar topic. Each paper is connected to all the other papers assigned the same topic and the different topics are represented by the different colours of edges. Papers are also connected to their authors, these nodes are coloured dark grey and black respectively. The part of the network that shows the authors also contains black edges. These edges represent collaborations between the authors.",
-    "title": "TATA Authors and their papers network"
+    "title": "TATA Authors and Their Papers Network"
   },
   "legend": {
     "edgeLabel": "Collaborations and Papers are written on a similar topic",
