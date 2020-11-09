@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "The full network of the TATA data. The dark grey nodes show the papers which are connected to the larger blue nodes representing the different topics. The black nodes show the authors which are linked to other authors they collaborated with and the papers they wrote.\n\nThe weighted edges show the number of times an author wrote a paper that was assigned to that topic. The thicker, and darker, the edge the higher the number of papers.",
-    "intro": "The full network of the TATA data. The dark grey nodes show the papers which are connected to the larger blue nodes representing the different topics. The black nodes show the authors which are linked to other authors they collaborated with and the papers they wrote.\n\nThe weighted edges show the number of times an author wrote a paper that was assigned to that topic. The thicker, and darker, the edge the higher the number of papers.",
+    "intro": "The full network of the TATA data.",
     "title": "Full TATA Network"
   },
   "legend": {
