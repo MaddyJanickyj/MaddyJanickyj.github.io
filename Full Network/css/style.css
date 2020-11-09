@@ -239,7 +239,7 @@ border:1px solid #ccc;
 z-index:20;
 position:fixed;
 top:0;
-overflow:scroll;
+overflow-y:scroll;
 max-height:100%;
 }
 
