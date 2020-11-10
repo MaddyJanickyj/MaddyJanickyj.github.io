@@ -10,7 +10,7 @@
   "text": {
     "more": "The weighted edges show the number of times the pair of authors wrote a paper together. The thicker, and darker, the edge the higher the number of papers they collaborated on.",
     "intro": "The weighted edges show the number of times the pair of authors wrote a paper together. The thicker, and darker, the edge the higher the number of papers they collaborated on.",
-    "title": "Weighted TATA Author Collaborations Network"
+    "title": "TATA Weighted Author Collaborations Network"
   },
   "legend": {
     "edgeLabel": "Collaborations",
