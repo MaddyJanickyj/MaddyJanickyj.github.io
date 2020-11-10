@@ -10,7 +10,7 @@
   "text": {
     "more": "Network showing collaborations between authors.",
     "intro": "Network showing collaborations between authors.",
-    "title": "TATA Co-Author network"
+    "title": "TATA Author Collaborations network"
   },
   "legend": {
     "edgeLabel": "Collaborations ",
