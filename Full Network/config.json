@@ -13,7 +13,7 @@
     "title": "Full TATA Network"
   },
   "legend": {
-    "edgeLabel": "Written on same topic, collaboration between authors or linking authors to their papers",
+    "edgeLabel": "Written on same topic, collaborated or wrote the paper",
     "colorLabel": "Topic or type of interaction",
     "nodeLabel": "Authors, Papers and Topics"
   },
