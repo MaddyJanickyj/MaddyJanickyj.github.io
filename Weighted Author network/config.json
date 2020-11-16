@@ -13,13 +13,13 @@
     "title": "Weighted TATA Author Topic Network"
   },
   "legend": {
-    "edgeLabel": "Papers written on that topic",
+    "edgeLabel": "Wrote a paper on that topic",
     "colorLabel": "Number of papers written",
-    "nodeLabel": "Authors and Topics"
+    "nodeLabel": "Authors \u0026 Topics"
   },
   "features": {
     "search": true,
-    "groupSelectorAttribute": "Modularity Class",
+    "groupSelectorAttribute": "Clustering Coefficient",
     "hoverBehavior": "dim"
   },
   "informationPanel": {
