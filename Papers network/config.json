@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://maddyjanickyj.github.io/Abstract-Author-network/network/images/TATA Small.png",
+    "link": "",
+    "text": "Madeleine Janickyj"
+  },
+  "text": {
+    "more": "Network showing papers connected if they are written on similar topic. Each paper is connected to all the other papers assigned the same topic and the different topics are represented by the different colours of edges.",
+    "intro": "Network showing papers connected if they are written on similar topic. Each paper is connected to all the other papers assigned the same topic and the different topics are represented by the different colours of edges.",
+    "title": "TATA Abstract network"
+  },
+  "legend": {
+    "edgeLabel": "Papers are written on a similar topic",
+    "colorLabel": "Topic",
+    "nodeLabel": "Papers"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 1.5,
+      "minEdgeSize": 1.5,
+      "minNodeSize": 1,
+      "maxNodeSize": 3
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
