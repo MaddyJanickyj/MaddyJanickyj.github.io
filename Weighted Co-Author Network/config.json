@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://maddyjanickyj.github.io/APT%20Nodes%20network/images/TATA Small.png",
+    "link": "",
+    "text": "Madeleine Janickyj"
+  },
+  "text": {
+    "more": "The weighted edges show the number of times the pair of authors wrote a paper together. The thicker, and darker, the edge the higher the number of papers they collaborated on.",
+    "intro": "The weighted edges show the number of times the pair of authors wrote a paper together. The thicker, and darker, the edge the higher the number of papers they collaborated on.",
+    "title": "Weighted TATA Author Collaborations Network"
+  },
+  "legend": {
+    "edgeLabel": "Collaborations",
+    "colorLabel": "Number of papers written together",
+    "nodeLabel": "Authors"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "Modularity Class",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 18,
+      "minEdgeSize": 1.5,
+      "minNodeSize": 1,
+      "maxNodeSize": 5
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
