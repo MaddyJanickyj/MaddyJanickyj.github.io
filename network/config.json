@@ -15,7 +15,7 @@
   "legend": {
     "edgeLabel": "Collaboration, Authorship, Topic allocation",
     "colorLabel": "Topic",
-    "nodeLabel": "Authors, Papers"
+    "nodeLabel": "Authors, Papers, Topics"
   },
   "features": {
     "search": true,
