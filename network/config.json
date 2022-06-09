@@ -8,14 +8,14 @@
     "text": "MJanickyj"
   },
   "text": {
-    "more": "Network showing the collaboration between authors.",
-    "intro": "Network showing the collaboration between authors.",
-    "title": "TATA Author Collaboration Network"
+    "more": "Network showing the interactions betweeen authors and their papers.",
+    "intro": "Network showing the interactions betweeen authors and their papers.",
+    "title": "TATA Author and Paper Network"
   },
   "legend": {
-    "edgeLabel": "Collaboration",
-    "colorLabel": "Collaboration",
-    "nodeLabel": "Authors"
+    "edgeLabel": "Collaboration, Authorship, Topic allocation",
+    "colorLabel": "Topic",
+    "nodeLabel": "Authors, Papers"
   },
   "features": {
     "search": true,
